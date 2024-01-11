@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tay
-- 📫 Reach me @ [Email]
+<!--- - 📫 Reach me @ [email] --->
 
 <!---
 HeyWoahVictoria/HeyWoahVictoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
